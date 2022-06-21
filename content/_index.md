@@ -2,6 +2,8 @@
 title: Patrick Ambrose - Knowledge Garden
 ---
 
+![[notes/images/github-actions.png]]
+
 Adding some content for validation.
 
 Host your second brain and [digital garden](https://jzhao.xyz/posts/networked-thought) for free. Quartz features

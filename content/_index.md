@@ -1,6 +1,8 @@
 ---
-title: 🪴 Quartz 3.2
+title: Patrick Ambrose - Knowledge Garden
 ---
+
+Adding some content for validation.
 
 Host your second brain and [digital garden](https://jzhao.xyz/posts/networked-thought) for free. Quartz features
 

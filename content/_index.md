@@ -2,8 +2,6 @@
 title: Patrick Ambrose - Knowledge Garden
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLKoiq6Su-8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 Adding some content for validation.
 
 Host your second brain and [digital garden](https://jzhao.xyz/posts/networked-thought) for free. Quartz features
